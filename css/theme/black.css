@@ -265,3 +265,30 @@ body {
  *********************************************/
 .reveal .slide-number {
   color: #42affa; }
+
+.slides .footer {
+  position: absolute; 
+  
+width: 100%;
+  bottom: -35px;
+background-color:#d3d7cf;
+	opacity: 0.5;
+ left: 0%;
+font-size: 20px;
+text-align: center;
+padding-left: 0%;
+}
+
+
+ #fondop
+{
+    
+    background-color: black;
+    opacity:0.7;
+}
+ #fondop2
+{
+    
+    background-color: black;
+    opacity:0.9;
+}
