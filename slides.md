@@ -1,10 +1,10 @@
-# Let's illustrate
+# Illustration
 
 through exemples of editorialisation
 
 %%%
 
-# Editorialisation of an event
+## Editorialisation of an event
 
 [Polemictweet.com](http://polemictweet.com)
 
@@ -13,7 +13,7 @@ through exemples of editorialisation
 
 ¤¤¤
 
-## During the event
+### During the event
 
 Combination of :
 * live stream
@@ -23,7 +23,7 @@ Combination of :
 
 ¤¤¤
 
-## After the event
+### After the event
 
 An dynamic archive of :
 * video
@@ -33,12 +33,23 @@ An dynamic archive of :
 
 ¤¤¤
 
-## Editorialisation caracteristics
+### Editorialisation caracteristics
 
-* dynamic : continuous enrichment through annotation
-* performative : interactions with the physical event
-* processual :
-* open : multiplicity of actors, community driven,
+* **dynamic** : continuous enrichment through annotation
+* **performative** : interactions with the physical event
+* **processual** :
+* **open** : multiplicity of actors, community driven,
 
-information : [http://www.iri.centrepompidou.fr/outils/polemic-tweet/](http://www.iri.centrepompidou.fr/outils/polemic-tweet/)
-publication : [http://www.aviz.fr/wiki/pmwiki.php/Research/PolemicTweet]
+Further reading:  
+<span style="font-size:0.8em">information: [http://www.iri.centrepompidou.fr/outils/polemic-tweet/](http://www.iri.centrepompidou.fr/outils/polemic-tweet/)  
+publication: [http://www.aviz.fr/wiki/pmwiki.php/Research/PolemicTweet](http://www.aviz.fr/wiki/pmwiki.php/Research/PolemicTweet)</span>
+
+%%%
+
+## Editorialisation of an archive
+
+## Editorialisation of a community
+
+## Editorialisation of a database
+
+## Editorialisation of a research process
