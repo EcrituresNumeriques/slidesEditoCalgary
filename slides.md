@@ -123,10 +123,11 @@ Further reading:
 
 %%%
 
-## Editorialisation of a community
-%%%
-## Editorialisation of a database
-%%%
-## Editorialisation of a research process
-
-##
+Editorialisation of |exemples
+:--|:--
+**scientific community** | http://hypotheses.org/
+**research process** | http://modesofexistence.org/
+**lab** |
+**conference** | http://enmi-conf.org/wp/enmi12/
+**manuscripts** | https://anno.tate.org.uk/,
+**journey** | #transcan16
