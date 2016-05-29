@@ -4,7 +4,7 @@ through exemples of editorialisation
 
 %%%
 
-## Editorialisation of an event
+## Editorialisation of event
 &nbsp;
 
 ### [Polemictweet.com](http://polemictweet.com)
@@ -62,35 +62,64 @@ publication: [http://www.aviz.fr/wiki/pmwiki.php/Research/PolemicTweet](http://w
 
 %%%
 
-## Editorialisation of an archive
+## Editorialisation of archive
 
 &nbsp;
 
 ### Les Herbonautes
+[http://lesherbonautes.mnhn.fr/](http://lesherbonautes.mnhn.fr/)  
 citizen collaborative digital herbarium
-[http://lesherbonautes.mnhn.fr/](http://lesherbonautes.mnhn.fr/)
+
+<div style="display:inline-block;width:40%;text-align:middle">![](img/Le-site-Les-herbonautes-permet-aider-scientifiques-classer-herbier-national_0_730_450.jpg)</div>
 
 ¤¤¤
-### Citizen and participative science
-step-by-step:
-* massive digitalization of herbarium archives
-* mediation-oriented database : dedicated to participation and appropriation
-* website open for contributions :
-  * tagging, annotating, questionning, collecting, sharing
-  * creating new interpretative contexts
-* mediation :
-  * calls for participation ("mission"),
-  * thematic visits,
-  * peer-reviewing and discussion
+<div style="display:inline-block; vertical-align:middle;width:30%;">
+<h4 id="from-dusty-archive-to-citizen-science">From (dusty) archive to citizen science</h4>
+![](img/img_5464250.jpg)
+</div>
+<div style="display:inline-block; vertical-align:middle;width:60%;font-size:0.8em">
+  <ul>
+    <li><strong>massive digitalization</strong> of herbarium archives</li>
+    <li><strong>mediation-oriented database</strong>: dedicated to participation and appropriation</li>
+    <li><strong>website</strong> open for contributions:
+      <ul>
+        <li>tagging, annotating, questionning, collecting, sharing</li>
+        <li>creating new interpretative contexts: <em>&quot;collaboratory&quot;</em></li>
+      </ul>
+    </li>
+    <li><strong>mediation</strong>:
+      <ul>
+        <li>calls for participation: <em>&quot;mission&quot;</em></li>
+        <li>validation, discussion and peer-reviewing</li>
+        <li>badges</li>
+        <li>thematic visits</li>
+      </ul>
+    </li>
+  </ul>
+</div>  
 
+¤¤¤
+<div style="display:inline-block;width:130%;text-align:middle;position:relative;left:-15%">
+  ![](img/herbonautes-mission_canada_cropped.png)
+</div>
+
+¤¤¤
+<div style="display:inline-block;width:140%;text-align:middle;position:relative;left:-20%">
+  ![](img/herbonautes-mission_contribution_crop.png)
+</div>
 
 ¤¤¤
 ### What is at stake ?
+
+> Editorialisation sets the prerequisite for the re-appropriation of datas, archive, knowledge, ...
+
+<i class="fa fa-arrow-right"></i> knowledge production & circulation
+
 &nbsp;
 
-> Editorialisation creates the sine-qua-non conditions for the re-appropriation of datas/archive/knowledge
+Further reading:  
+<span style="font-size:0.8em"> [http://bbf.enssib.fr/consulter/bbf-2013-05-0027-006](http://bbf.enssib.fr/consulter/bbf-2013-05-0027-006)</span>
 
-<i class="fa fa-arrow-right"></i> Citizen Science
 
 %%%
 
