@@ -36,13 +36,13 @@ An dynamic archive of :
 <ul>
 <li>**video player**</li>
 <li>**timeline of chapter**</li>
-<li>**timeline of tweets** :  synchronized and categorized, the tweets are searchable</li>
-<li>**intra-video annotation widget** : feed the timeline with more searchable index</li>
+<li>**timeline of tweets**:  synchronized and categorized, the tweets are searchable</li>
+<li>**intra-video annotation widget**: feed the timeline with more searchable index</li>
 <li>(slides)</li>
 </ul>
 </div>
 <div style="display:inline-block; vertical-align:middle;width:70%;">
-![archive_polemictweet](img/PT_archive.png)
+![archive_polemictweet](img/PT_archive2_cropped.png)
 </div>
 
 ¤¤¤
@@ -123,7 +123,7 @@ Further reading:
 
 %%%
 
-Editorialisation of |exemples
+_Editorialisation of..._ | _exemples_
 :--|:--
 **scientific community** | http://hypotheses.org/
 **research process** | http://modesofexistence.org/
@@ -131,3 +131,23 @@ Editorialisation of |exemples
 **conference** | http://enmi-conf.org/wp/enmi12/
 **manuscripts** | https://anno.tate.org.uk/,
 **journey** | #transcan16
+
+%%%
+
+### Thank you !
+&nbsp;
+
+Chaire écritures numériques [ecrituresnumeriques.ca](http://ecrituresnumeriques.ca)
+Workshop editorialization [seminaire.sens-public.org](http://seminaire.sens-public.org)
+
+
+&nbsp;
+
+&nbsp; | <small>contacts</small>
+--:|:--
+<small>**Marcello Vitali Rosati**</small> | <small>_marcello.vitali.rosati@umontreal.ca<br>@monterosato_</small>
+<small>**Nicolas Sauret**</small> | <small>_nicolas.sauret@umonreal.ca<br>@nicolasauret_</small>
+
+&nbsp;
+
+<small>Congress 2016 <br>May 28 - June 3 Calgary, AB</small>
