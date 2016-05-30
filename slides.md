@@ -1,6 +1,6 @@
 # Illustration
 
-through exemples of editorialisation
+through case studies of editorialisation
 
 %%%
 
@@ -122,12 +122,12 @@ Further reading:
 
 
 %%%
-
+### More case studies
 _Editorialisation of..._ | _exemples_
 :--|:--
 **scientific community** | http://hypotheses.org/
 **research process** | http://modesofexistence.org/
-**lab** |
+**_third place_** |
 **conference** | http://enmi-conf.org/wp/enmi12/
 **manuscripts** | https://anno.tate.org.uk/,
 **journey** | #transcan16
