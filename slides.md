@@ -135,7 +135,6 @@ _Editorialisation of..._ | _exemples_
 %%%
 
 ### Thank you !
-&nbsp;
 
 
 &nbsp; | &nbsp;
@@ -147,12 +146,14 @@ _Editorialisation of..._ | _exemples_
 
 <small>
 [ecrituresnumeriques.ca](http://ecrituresnumeriques.ca)  
-Canada Research Chair _Digital textualities_  </small>
+Canada Research Chair _Digital textualities_  
+![](img/logochaire_300px.jpg)  
+</small>
 &nbsp;
 <small>[seminaire.sens-public.org](http://seminaire.sens-public.org)  
 Workshop editorialization   
-</small>
-
+![](img/logoedito.jpg)  
+</small>  
 &nbsp;
 
 <small>Congress 2016 <br>May 28 - June 3 Calgary, AB</small>
