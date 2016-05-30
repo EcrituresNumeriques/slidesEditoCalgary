@@ -137,16 +137,21 @@ _Editorialisation of..._ | _exemples_
 ### Thank you !
 &nbsp;
 
-Chaire écritures numériques [ecrituresnumeriques.ca](http://ecrituresnumeriques.ca)
-Workshop editorialization [seminaire.sens-public.org](http://seminaire.sens-public.org)
 
-
-&nbsp;
-
-&nbsp; | <small>contacts</small>
+&nbsp; | &nbsp;
 --:|:--
 <small>**Marcello Vitali Rosati**</small> | <small>_marcello.vitali.rosati@umontreal.ca<br>@monterosato_</small>
 <small>**Nicolas Sauret**</small> | <small>_nicolas.sauret@umonreal.ca<br>@nicolasauret_</small>
+&nbsp; | &nbsp;
+
+
+<small>
+[ecrituresnumeriques.ca](http://ecrituresnumeriques.ca)  
+Canada Research Chair _Digital textualities_  </small>
+&nbsp;
+<small>[seminaire.sens-public.org](http://seminaire.sens-public.org)  
+Workshop editorialization   
+</small>
 
 &nbsp;
 
