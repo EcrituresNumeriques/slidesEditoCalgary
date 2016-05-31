@@ -123,14 +123,21 @@ Further reading:
 
 %%%
 ### More case studies
+
 _Editorialisation of..._ | _exemples_
 :--|:--
+**archive** | [CDLI](http://cdli.ox.ac.uk/wiki/) & [Assyronline](http://passes-present.eu/en/themes-research/active-knowledge-past/digital-humanities-and-assyriology-tools-online-history#.VK_iGcZjCQs)
 **scientific community** | http://hypotheses.org/
 **research process** | http://modesofexistence.org/
-**_third place_** |
+**lab** | http://networkcultures.org/
 **conference** | http://enmi-conf.org/wp/enmi12/
-**manuscripts** | https://anno.tate.org.uk/,
-**journey** | #transcan16
+**manuscripts** | https://anno.tate.org.uk/, [The Devonshire Manuscript](https://crrs.ca/publications/ov19/)
+**journey** | [#transcan16](http://ecrituresnumeriques.ca/fr/2016/5/26/En-route-vers-Calgary)
+<!-- .element: style="font-size:0.7em" -->
+
+<!-- .element: style="font-size:0.7em" --> **Meta-tools** : [MediaWiki](https://www.mediawiki.org/wiki/MediaWiki), [Scalar](http://scalar.usc.edu/scalar/), [Scenari](https://scenari.org/), ...
+
+
 
 %%%
 
